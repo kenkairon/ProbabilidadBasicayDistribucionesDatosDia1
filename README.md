@@ -81,7 +81,7 @@ python analisis_probabilistico.py
 ```
 
 ### Ejecución en Jupyter Notebook
-
+[probabilidad](analisis_interactivo.ipynb)
 ```bash
 # Instalar Jupyter
 pip install jupyter
@@ -90,7 +90,7 @@ pip install jupyter
 jupyter notebook
 
 # Abrir el notebook y ejecutar las celdas
-[probabilidad](analisis_interactivo.ipynb)
+
 ```
 
 ## 📁 Estructura del Proyecto
