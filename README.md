@@ -75,6 +75,7 @@ pip install pandas numpy matplotlib scipy
 
 ### Ejecución Básica
 
+[probabilidad](analisis_probabilistico.py)
 ```bash
 python analisis_probabilistico.py
 ```
@@ -89,6 +90,7 @@ pip install jupyter
 jupyter notebook
 
 # Abrir el notebook y ejecutar las celdas
+[probabilidad](analisis_interactivo.ipynb)
 ```
 
 ## 📁 Estructura del Proyecto
