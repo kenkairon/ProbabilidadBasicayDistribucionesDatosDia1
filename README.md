@@ -102,7 +102,8 @@ analisis-probabilistico-ecommerce/
 │
 ├── analisis_interactivo.ipynb # Notebooks opcionales 
 │
-└── distribuciones_probabilidad_clientes.png                   
+└── distribuciones_probabilidad_clientes.png     
+![clientes](distribuciones_probabilidad_clientes.png )              
     
 ```
 
